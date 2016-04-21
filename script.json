@@ -1,7 +1,12 @@
 {
-    "HELLO": "Hi. What's up! I am a bot and my master is Amit who is training me.",
-    "HI": "Hi. What's up! I am a bot and my master is Amit who is training me.",
-    "HEY": "Hi. What's up! I am a bot and my master is Amit who is training me.",
+    "HELLO": "Hi. I would like to keep you updated with top news of the day. Type TECH or CRICKET or ENTERTAINMENT or TV or TRAVEL",
+    "HI": "Hi. I would like to keep you updated with top news of the day. Type TECH or CRICKET or ENTERTAINMENT or TV or TRAVEL",
+    "HEY": "Hi. I would like to keep you updated with top news of the day. Type TECH or CRICKET or ENTERTAINMENT or TV or TRAVEL",
+    "TECH":"Facebook Messenger launches Group Calling to become your phone. Just tap the Phone icon, select which of the group chat members you want included and they’ll all receive a Messenger call simultaneously. If you miss the initial call but it’s still in progress, you can tap the Phone icon in the group chat to join the call. At any time you can see who’s on the call and send another ping to anyone who hasn’t joined.",
+    "CRICKET":"India is set to host a day-night Test during New Zealand's visit later this year. Anurag Thakur, the BCCI secretary, said on Thursday that the BCCI would use the pink Kookaburra ball for the Test match.",
+    "ENTERTAINMENT":"Laal Rang movie is release today. It is half-baked and unconvincing. Despite the grit, it never becomes a riveting film. Here's a lesson to learn: Ideas don't make good films, execution does.",
+    "TV":"Chetan Hansraj is excited to be donning a rugged tribal avatar in periodical drama - Ek Tha Raja Ek Thi Rani. The television star says the role has a mysterious and interesting vibe to it.",
+    "TRAVEL":"Soul warming is the expression that comes to mind when talking about the beaches of the Andaman & Nicobar Islands, and it's definitely the result of something more than the tropical sun. It's the crystal clear sea with a tinge of aqua blue, schools of iridescent fish that dart in sudden movements across the corals, and the soft bone white sand where one can lay the whole day.",
     "I love you": "Awh! I love you too!",
     "DISCONNECT": "Roger that, NewsBot is back."
 }
