@@ -1,7 +1,10 @@
 {
+    "Hello": "Hi. What's up! My master is Amit who has trained me.",
+    "Hi": "Hi. What's up! My master is Amit who has trained me.",
+    "Hey": "Hi. What's up! My master is Amit who has trained me.",
     "HELLO": "Hi. What's up! My master is Amit who has trained me.",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh! I love you too!",
-    "CONNECT ME": "",
+    "HI": "Hi. What's up! My master is Amit who has trained me.",
+    "HEY": "Hi. What's up! My master is Amit who has trained me.",
+    "I love you": "Awh! I love you too!",
     "DISCONNECT": "Roger that, NewsBot is back."
 }
