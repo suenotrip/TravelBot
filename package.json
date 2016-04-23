@@ -1,7 +1,7 @@
 {
-  "name": "Travel Bot - Get must-know travel tips for any destination globally",
+  "name": "smooch-bot-example",
   "version": "1.0.0",
-  "description": "Travel Bot",
+  "description": "Smooch Bot Example Apps",
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
     "start": "node heroku"
